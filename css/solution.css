@@ -1,5 +1,5 @@
 .gradient-background {
-  background: #f23d4a;
+  background: #ffffff;
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
 }
@@ -45,4 +45,12 @@
   height: 100%;
   object-fit: cover;
   object-position: center bottom;
+} 
+
+#projects {
+  padding-top: 60px; /* Adjust the value according to your preference */
+}
+
+.card-link {
+  text-decoration: none;
 }
