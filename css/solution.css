@@ -54,3 +54,10 @@
 .card-link {
   text-decoration: none;
 }
+
+#footer {
+  background-color: #e9d62d; /* Set your desired background color */
+  color: white; /* Set your desired text color */
+  text-align: center;
+  padding: 1rem;
+}
